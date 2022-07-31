@@ -1,0 +1,16 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+div {
+    background-color: burlywood;
+    width: 50%;
+    margin: auto;
+    text-align: justify;
+}
+
+.recipe {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

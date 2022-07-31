@@ -1,0 +1,38 @@
+body {
+    background-color: antiquewhite;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+img {
+    height: 400px;
+    width: auto;
+}
+
+.image {
+    text-align: center;
+}
+
+.desc {
+    text-align: center;
+    background-color: burlywood;
+    
+}
+
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.ingred {
+    margin-left: 300px;
+    margin-right: auto;
+}
+
+.steps {
+    margin-left: 100px;
+    margin-right: auto;
+}
